@@ -1,0 +1,8 @@
+langgraph
+langchain-anthropic
+langchain-huggingface
+sentence-transformers
+pydantic
+python-dotenv
+pypdf
+fpdf2
